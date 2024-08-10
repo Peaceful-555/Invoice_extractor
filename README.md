@@ -15,6 +15,7 @@ cd venv
 -On Windows, use Scripts\activate to activate the venv
 
 cd ..
+
 cd invoicedetailsextractor
 
 4. Install the required packages:
